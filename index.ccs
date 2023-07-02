@@ -1,34 +1,48 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <litle="a diversidade"litle>
-    <link rel="stylesheet" href="style.ccs">
-</head>
+body {
 
-<body>
- <header>
-<H1 class="titulo-principal">A Diversidade</h1>
-</header>
-<img id="diversidade" src="diversidade.jpg">
-<div class="principal">
- <h2 clas="titulo-centralizado"> sobre a barbearia alura</h2>
+}
 
-<p>localizada no coraçãoi da cidade <strong>barbearia alura</strong> traz para o mercado </p>
+#banner {
+ width:100%;
+}
 
-<p id="missao"<em> nossa missão é : <strong>"proporcionar  auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+.principal{
+ background #cccccc:
+ padding: 30px;
+}
 
-<p> oferemos nossos serviços a todos</p>
-</div>
+.titulo-principal {
+ padding-left: 20px;
+}
 
-<div class="beneficios">
- <h3 clas="titulo-centralizado">beneficios</h3>
+.titulo-centralizado {
+ text-align: center
+}
 
- <ul>
-  <li class+"itens">atendimento aos clientes</li>
-  <li class+"itens">espaço diferente</li>
-  <li class+"itens">localização</li>
-  <li class+"itens">bons profissionais</li>
- </ul>
-</body>
-</html>
+p {
+ text-align: center;
+}
+
+#missao {
+ font-size: 20px
+}
+
+em strong {
+ color: #FF0000;
+}
+
+.itens {
+ font-size: italic
+}
+
+.beneficios {
+ background: #FFFFFF;
+ padding: 20px;
+}
+
+ul {
+ display: inline-block;
+ vertical-align: top;
+ width: 20%;
+ margin-right: 15%;
+}
