@@ -1,37 +1,34 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <litle="a diversidade"litle>
+    <link rel="stylesheet" href="style.ccs">
 </head>
+
 <body>
+ <header>
+<H1 class="titulo-principal">A Diversidade</h1>
+</header>
+<img id="diversidade" src="diversidade.jpg">
+<div class="principal">
+ <h2 clas="titulo-centralizado"> sobre a barbearia alura</h2>
 
+<p>localizada no coraçãoi da cidade <strong>barbearia alura</strong> traz para o mercado </p>
 
-<H1>A DIVERSIDADE</H1>
+<p id="missao"<em> nossa missão é : <strong>"proporcionar  auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
 
+<p> oferemos nossos serviços a todos</p>
+</div>
 
-<p>Diversidade é a reunião de tudo aquilo que apresenta múltiplos aspectos e que se diferenciam entre si, ex.: diversidade cultural,
-diversidade biológica, diversidade étnica, linguística, religiosa etc.</p>
+<div class="beneficios">
+ <h3 clas="titulo-centralizado">beneficios</h3>
 
-</p>Para a cultura, a diversidade proporciona novas conexões e o desenvolvimento da capacidade </p>
-
-</p>artística e cultural. Ou seja, a diversidade traz vantagens para toda a sociedade. Precisamos incorporar pessoas, não importando sexo, gênero, raça, religião, classe social, geração, necessidades especiais…</p>
-
-  <img src="diversidade.jpg">
-
-<h1>Qual a importância da diversidade?</H1>
-</p>A diversidade cultural nos ajuda a reconhecer e a respeitar as diferentes manifestações que moldam a identidade de um povo.</p>
-
-</p>Diversidade é qualidade do que é diverso, um conjunto variado de coisas ou pessoas que integram um todo.
-A importância da diversidadeestá intrínseca em nosso dia a dia. É na multiplicidade que encontramos oportunidades de aprendizagem e da prática de habilidades diferenciadas: empatia, inteligência emocional e compreensão.</p>
-
-</p>O brasileiro experimenta a diversidade em sua rotina diariamente. 
-Nossa população é etnicamente diversa à custade muito sofrimento: dizimação de povos indígenas, colonização dos portugueses, escravidão e imigração europeia e asiática.</p>
-
-</p>Todos esses fatos históricos contribuíram para a criação de um sincretismo religioso e cultural pelo qual deveríamos nos orgulhar.</p>
-
-</p>Porém, infelizmente, nossa dívida social fomenta a indiferença, o preconceito, o racismo e até a xenofobia.<p/>
-
+ <ul>
+  <li class+"itens">atendimento aos clientes</li>
+  <li class+"itens">espaço diferente</li>
+  <li class+"itens">localização</li>
+  <li class+"itens">bons profissionais</li>
+ </ul>
 </body>
 </html>
